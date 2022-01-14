@@ -1,2 +1,3 @@
-# sample-java-pr
-My Sample Java Project
+# First Sample JAVA Project in GITHUB
+
+This is my first sample JAVA project in Github.
